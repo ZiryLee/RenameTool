@@ -14,12 +14,5 @@
 #### 使用说明
 
 1. 下载项目，编译并运行WindowMain.java（窗口界面程序）或TerminalMain.java（终端程序）
-2. 下载可运行JAR，注意需要安装JRE环境（推荐），[点击去下载](https://gitee.com/ziry/RenameTool/attach_files)
-3. 下载含有JRE8的压缩包，解压运行，[点击去下载](https://gitee.com/ziry/RenameTool/attach_files)
-
-#### 参与贡献
-
-1. Fork 本项目
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
+2. 下载可运行JAR，注意需要安装JRE环境（推荐），[点击去下载](https://github.com/ZiryLee/RenameTool/tree/master/out)
+3. 下载含有JRE8的压缩包，解压运行，[点击去下载](https://github.com/ZiryLee/RenameTool/tree/master/out)
